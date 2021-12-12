@@ -1,0 +1,13 @@
+/*
+ * AMQ Sonar CS656 V2.22
+ * Sonar
+ * Group: cx
+ * Group Members:
+
+ * Note: follow all instructions in this file
+ * - 'ADC' means "add your code here"
+ * - 'NOC' means don't change i.e. you should use as is
+ * - Do not change any method signatures
+ * - your own helper methods are OK
+ */
+import javax.jms.Connection;
